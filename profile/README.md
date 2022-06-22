@@ -22,4 +22,5 @@
 
 
 #### Actions
-- [Actions Status Discord](https://github.com/marketplace/actions/actions-status-discord)
+- [Status Discord](https://github.com/marketplace/actions/actions-status-discord)
+- [Checkout](https://github.com/actions/checkout)
